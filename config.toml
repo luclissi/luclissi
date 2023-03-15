@@ -41,3 +41,32 @@ enableRobotsTXT = true
     
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
+
+[params]
+  # URL for the avatar on homepage
+  avatarURL = "/images/avatar.jpeg"
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  avatarSize = "size-l"
+
+  # Description to display on homepage
+  description = "May the Force be with you."
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#F88204"
+
+  # You can use this to inject any HTML in the <head> tag.
+  # Ideal usecase for this is to import custom js/css or add your analytics snippet
+  customHeadHTML = ""
+
+  # Keywords relevant for SEO
+  metaKeywords = ["blog", "gokarna", "hugo"]
+
+  socialIcons = [
+    {name = "linkedin", url = "https://www.linkedin.com/in/luclissi/"},
+    {name = "instagram", url = "https://www.instagram.com/luclissi/"},
+    {name = "spotify", url = "https://open.spotify.com/user/22tkl33dgepq6csgkmm47gwci?si=mu-NvXAvQcG8iWvfkah5nw"},
+  ]
+
+  # Footer text
+  footer = "Luclissi"
