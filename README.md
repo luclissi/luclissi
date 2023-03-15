@@ -10,6 +10,7 @@
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
+![GOLANG](https://img.shields.io/badge/GOLANG-%23007ACC.svg?&style=flat&logo=go&logoColor=white)&nbsp;
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
 ![Flutter](https://img.shields.io/badge/FLUTTER-02569B.svg?&style=flat&logo=flutter&logoColor=white) &nbsp;
@@ -84,6 +85,10 @@ python, c, cpp, arduino
   <img alingn="center" src="https://profile-counter.glitch.me/luclissi-production/count.svg" />
 </p>
 
-![snake animation](https://github.com/luclissi/luclissi/blob/output/github-contribution-grid-snake2.svg)
-  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luclissi/luclissi/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luclissi/luclissi/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/luclissi/luclissi/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
