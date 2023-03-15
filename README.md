@@ -84,6 +84,6 @@ python, c, cpp, arduino
   <img alingn="center" src="https://profile-counter.glitch.me/luclissi-production/count.svg" />
 </p>
 
-![Snake animation](https://github.com/luclissi/luclissi/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/luclissi/luclissi/blob/output/github-contribution-grid-snake2.svg)
   
 </div>
