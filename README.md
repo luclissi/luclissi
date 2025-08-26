@@ -79,11 +79,4 @@ python, c, cpp, arduino
 
 </details>
 
-
- ## Visitors :detective:
-<p align="center"> 
-  <img alingn="center" src="https://profile-counter.glitch.me/luclissi-production/count.svg" />
-</p>
-
-
 </div>
